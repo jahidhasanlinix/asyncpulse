@@ -1,2 +1,3 @@
 # asyncpulse
-AsyncPulse - Asynchronous standup meetings in Slack to keep your team synced
+AsyncPulse - Asynchronous standup meetings in Slack to keep your team synced 
+`COMING SOON`
