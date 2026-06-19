@@ -64,9 +64,21 @@ Click the link below to add AsyncPulse to your Slack workspace:
 
 ## 📖 I Wrote a Book on AI Product Management
 
-*The AI Product Brief* – how sharp PMs think, work, and lead when building products that can surprise you. Feel free to read it:
-
-👉 **[Read the Book](https://ai-product-brief.netlify.app/)**
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="assets/book.png" alt="The AI Product Brief" width="180">
+    </td>
+    <td width="70%">
+      <strong>The AI Product Brief</strong><br>
+      <em>How sharp PMs think, work, and lead when building products that can surprise you.</em>
+      <br><br>
+      I wrote down everything I wish I'd known earlier about AI product management—from managing model tendency to running async teams effectively.
+      <br><br>
+      👉 <strong><a href="https://ai-product-brief.netlify.app/">Read the Book →</a></strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
